@@ -19,6 +19,6 @@ The next two visualizations help to find Bike Usage during the week.
 - Our overall analysis suggests that male users and office goers must be targeted as highest bike users.
 Suggestions -
 - Two other visualizatiosn could be to understand more about the User Base.
-1. Types of users(Customer/Subscriber) based on birth year. - Are younger users more customers or subscribers?
-2. Trip duration based on birth year. - Do younger users go longer distances?
+1. Bike Usage by users based on birth year. - Are younger or older users more likely to use the bike sharing feature?
+2. Type of customer based on birth year - Are younger or older users more likely to become a subscriber?
 - More datasets for 2019 should be used besides August and also for other years.
