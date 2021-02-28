@@ -5,7 +5,7 @@ This project analyzes the CitiBike data from New York City for the year 2019 to 
 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 Here are the resuts from some of the visualizations we performed on the NY CitiBike dataset.
-1. Bike Usage by Gender !() We find that the overall bike usage is highest for Males(~65%) than Females(~25%) and Unknown(~9.6%).
+1. Bike Usage by Gender ![https://github.com/ketpradh/bikesharing/blob/main/Resources/Bike%20Usage%20by%20Gender.PNG] We find that the overall bike usage is highest for Males(~65%) than Females(~25%) and Unknown(~9.6%).
 2. Peak Hours for August Usage !() August being a popular time in NYC, the bike usage(number of rides) in August was calculated in terms of usage in peak hours(in local NY time). It was found that the usage is the higher during early morning(8AM-9AM) and in the evenings from 4PM-7PM, with having the highest number of rides(224,566) being at 5 PM.
 To check how long a bike is checked out for by a user, the next two visualizations were performed.
 3. Checkout times for Users !()  It was found that most bike users checked out for **under 1 hour** and peaked at 5 minutes.
