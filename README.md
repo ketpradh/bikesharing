@@ -21,10 +21,10 @@ The next two visualizations help to find Bike Usage during the week.
 - ![](https://github.com/ketpradh/bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.PNG) 
 - Depending on the type of users, which are customers or subscribers, we found that - Overall subscribers account for the most number of rides than customers and is usually highest during Monday-Friday. Male Subscribers have the highest number of trips during the weekdays, than any other gender. 
 ## Summary: 
-- Based on our analysis, bike sharing is a good option for any city. 
-- Our overall analysis suggests that male users and office goers must be targeted as highest bike users.
+- Based on the given dataset and our analysis, bike sharing is a good option for any city, including Des Moines. The number of rides indicate it is a popular mode of transport in cities such as NYC.
+- Our overall analysis suggests that Male users and office goers must be targeted as highest bike users.
 Suggestions -
 - Two other visualizatiosn could be to understand more about the User Base.
-1. Bike Usage by users based on birth year. - Are younger or older users more likely to use the bike sharing feature?
+1. Bike Usage by users based on birth year - Are younger or older users more likely to use the bike sharing feature?
 2. Type of customer based on birth year - Are younger or older users more likely to become a subscriber?
-- More datasets for 2019 should be used besides August and also for other years.
+- Also, more datasets for 2019 could be used besides August and also for other years.
