@@ -25,7 +25,7 @@ Here are the resuts from some of the visualizations we performed on the NY CitiB
 ## Summary: 
 - Based on the given dataset and our analysis, bike sharing is a good option for any city, including Des Moines. The number of rides indicate it is a popular mode of transport in cities such as NYC, throughout the week. 
 - Our overall analysis suggests that Male users and office goers are the key target users, especially during the work week(Monday-Friday) and work commute hours. Weekend bike usage is popular as well, suggesting tourist usage.
-Suggestions -
+### Suggestions -
 - Two other visualizations could be to understand more about the user base.
 1. Bike Usage by users based on birth year - Are younger or older users more likely to use the bike sharing feature?
 2. Type of customer based on birth year - Are younger or older users more likely to become a subscriber?
