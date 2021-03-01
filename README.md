@@ -20,8 +20,8 @@ Here are the resuts from some of the visualizations we performed on the NY CitiB
 7. User Trips by Gender by Weekday 
 - ![](https://github.com/ketpradh/bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.PNG) 
 - Depending on the type of users, which are customers or subscribers, we found that:
--- Overall subscribers account for the most number of rides than customers and is usually highest during Monday-Friday. 
--- Male Subscribers have the highest number of trips during the weekdays, than any other gender. 
+  - Overall subscribers account for the most number of rides than customers and is usually highest during Monday-Friday. 
+  - Male Subscribers have the highest number of trips during the weekdays, than any other gender. 
 ## Summary: 
 - Based on the given dataset and our analysis, bike sharing is a good option for any city, including Des Moines. The number of rides indicate it is a popular mode of transport in cities such as NYC, throughout the week. 
 - Our overall analysis suggests that Male users and office goers are the key target users, especially during the work week(Monday-Friday) and work commute hours. Weekend bike usage is popular as well, suggesting tourist usage.
